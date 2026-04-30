@@ -1,0 +1,9 @@
+Command: cmake -G Ninja -B /Users/katie/Documents/PlatformIO/Projects/esp-lvgl-cyd/Attempt1/build -DPYTHON_DEPS_CHECKED=1 -DPYTHON=/Users/katie/.espressif/tools/python/v6.0/venv/bin/python -DESP_PLATFORM=1 -DCCACHE_ENABLE=False /Users/katie/Documents/PlatformIO/Projects/esp-lvgl-cyd/Attempt1
+Configuration Report               
+ ───────────────────────────────── 
+   Parser Version: 1               
+   Verbosity: default              
+   Defaults policy: sdkconfig      
+   Status: Finished successfully   
+                                   
+ ───────────────────────────────── 

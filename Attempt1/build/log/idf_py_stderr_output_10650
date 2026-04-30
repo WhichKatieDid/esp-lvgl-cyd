@@ -1,0 +1,11 @@
+Command: cmake -G Ninja -B /Users/katie/Documents/PlatformIO/Projects/esp-lvgl-cyd/Attempt1/build -DPYTHON_DEPS_CHECKED=1 -DPYTHON=/Users/katie/.espressif/tools/python/v6.0/venv/bin/python -DESP_PLATFORM=1 -DCCACHE_ENABLE=False /Users/katie/Documents/PlatformIO/Projects/esp-lvgl-cyd/Attempt1
+CMake Error at /Users/katie/.espressif/v6.0/esp-idf/tools/cmake/build.cmake:378 (message):
+  Failed to resolve component 'lvgl' required by component
+  'lvgl_esp32_drivers': unknown name.
+Call Stack (most recent call first):
+  /Users/katie/.espressif/v6.0/esp-idf/tools/cmake/build.cmake:421 (__build_resolve_and_add_req)
+  /Users/katie/.espressif/v6.0/esp-idf/tools/cmake/build.cmake:751 (__build_expand_requirements)
+  /Users/katie/.espressif/v6.0/esp-idf/tools/cmake/project.cmake:742 (idf_build_process)
+  CMakeLists.txt:3 (project)
+
+

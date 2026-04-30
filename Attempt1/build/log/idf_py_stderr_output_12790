@@ -1,0 +1,2 @@
+Command: ninja size
+ninja: error: 'Attempt1.map', needed by 'CMakeFiles/size', missing and no known rule to make it

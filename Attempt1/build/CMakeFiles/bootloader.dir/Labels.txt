@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/Users/katie/Documents/PlatformIO/Projects/esp-lvgl-cyd/Attempt1/build/CMakeFiles/bootloader
+/Users/katie/Documents/PlatformIO/Projects/esp-lvgl-cyd/Attempt1/build/CMakeFiles/bootloader.rule
+/Users/katie/Documents/PlatformIO/Projects/esp-lvgl-cyd/Attempt1/build/CMakeFiles/bootloader-complete.rule
+/Users/katie/Documents/PlatformIO/Projects/esp-lvgl-cyd/Attempt1/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/Users/katie/Documents/PlatformIO/Projects/esp-lvgl-cyd/Attempt1/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/Users/katie/Documents/PlatformIO/Projects/esp-lvgl-cyd/Attempt1/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/Users/katie/Documents/PlatformIO/Projects/esp-lvgl-cyd/Attempt1/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/Users/katie/Documents/PlatformIO/Projects/esp-lvgl-cyd/Attempt1/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/Users/katie/Documents/PlatformIO/Projects/esp-lvgl-cyd/Attempt1/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/Users/katie/Documents/PlatformIO/Projects/esp-lvgl-cyd/Attempt1/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule

@@ -1,0 +1,2 @@
+source /Users/katie/Documents/PlatformIO/Projects/esp-lvgl-cyd/UsingEsp-idf/build/gdbinit/symbols
+source /Users/katie/Documents/PlatformIO/Projects/esp-lvgl-cyd/UsingEsp-idf/build/gdbinit/connect
